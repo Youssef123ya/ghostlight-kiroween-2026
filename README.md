@@ -4,6 +4,10 @@
 
 A local-first accessibility repair workshop built for **Kiroween 2026 — Costume Contest**. Import a self-contained HTML page, inspect focused findings, make a thoughtful repair, rerun the checks, compare before and after, then export the repaired static page and an honest JSON report.
 
+[Open the public workshop](https://ghostlight-accessibility-studio.uuuuuuuqdffaq.chatgpt.site/) · [Public source](https://github.com/Youssef123ya/ghostlight-kiroween-2026)
+
+The hosted workshop requires no login. Start with the supplied Midnight Museum demo or import your own small HTML page.
+
 ## Run locally
 
 Node.js 20 or newer is sufficient to serve the already-vendored static app:

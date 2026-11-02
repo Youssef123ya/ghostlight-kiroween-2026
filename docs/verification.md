@@ -22,4 +22,8 @@ Verified locally on November 2, 2026, using Node.js 24 and the Codex in-app brow
 
 ## Remaining limits
 
-No screen-reader user study, exhaustive WCAG audit, cross-browser matrix or public judge-access test is claimed. Those require additional evaluation. The exported page is static and sanitized. Public GitHub, a judge-accessible app URL and the public YouTube video remain submission work.
+No screen-reader user study, exhaustive WCAG audit or cross-browser matrix is claimed. Those require additional evaluation. The exported page is static and sanitized.
+
+## Public access
+
+On November 2, 2026, the public hosted app loaded without a login and the seven-repair journey was repeated successfully. The public GitHub repository exposes the root `.kiro/` folder and GitHub-detected MIT license. The demo video was assembled and exported in Filmora as a 126-second, 1920×1080, 25 fps H.264/AAC MP4. Public YouTube publication remains a separate submission step.
